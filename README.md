@@ -12,7 +12,7 @@
 - 💬 Ask me about ...DATASCIENCE,SALESFORCE AND WEB DEV RELATED QUERIES..
 - 📫 How to reach me: ...YOUTUBE,LINKEDIN
 - 😄 Pronouns: ...SHE,HER
-- ⚡ Fun fact: ... TAKES TIME BUT NO STOP IN LEARN EVERY DAY LEARNING NEW ITS EXCITING! YAYY!!
+- ⚡ Fun fact: ...  EVERY DAY LEARNING NEW ITS EXCITING! YAYY!!
 
 I 😊 COULD BE HAPPY TO HELP YOU CAN GIVE A PULL REQUEST:)
 - Reach me out at below links:💥
