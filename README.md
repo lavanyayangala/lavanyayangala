@@ -5,7 +5,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on ...LEARNING-UPGRDING-AND AIM TO GET A SATISFIED JOB
+- 🔭 I’m currently working on ...LEARNING-UPGRADING-AND AIM TO GET A SATISFIED JOB
 - 🌱 I’m currently learning ...GIT,SALESFORCE,HTML,CSS,JS
 - 👯 I’m looking to collaborate on ...GIT,YOUTUBE,LINKEDIN
 - 🤔 I’m looking for help with ...LEARNING
@@ -13,4 +13,8 @@
 - 📫 How to reach me: ...YOUTUBE,LINKEDIN
 - 😄 Pronouns: ...SHE,HER
 - ⚡ Fun fact: ...FAMILIARITY TAKES TIME BUT NO STOPPING TO LEARN EVERY DAY LEARNING NEW ITS EXCITING! YAYY!!
+- Reach me out at below links:
+- Github:https://github.com/lavanyayangala
+- LinkedIn: https://www.linkedin.com/in/lavanya-yangala/
+- youtube: https://www.youtube.com/channel/UCq0XOjnIdC1cZyIaW7BZKeQ
 
