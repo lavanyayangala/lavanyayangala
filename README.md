@@ -14,7 +14,7 @@
 - 😄 Pronouns: ...SHE,HER
 - ⚡ Fun fact: ... TAKES TIME BUT NO STOP IN LEARN EVERY DAY LEARNING NEW ITS EXCITING! YAYY!!
 
-I COULD BE HAPPY TO HELP I AM AWAY FROM A PULL REQUEST:)
+I COULD BE HAPPY TO HELP YOU CAN GIVE A PULL REQUEST:)
 - Reach me out at below links:
 - Github:https://github.com/lavanyayangala
 - LinkedIn: https://www.linkedin.com/in/lavanya-yangala/
