@@ -6,7 +6,7 @@
 <!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on ...learn,upgrade,aim to super job..💚
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...#DSA with kunal
 - 👯 I’m looking to collaborate on ...GITHUB,LINKEDIN,YOUTUBE.
 - 🤔 I’m looking for help with ...LEARNING
 - 💬 Ask me about ...DATASCIENCE,WEB DEV RELATED QUERIES..
