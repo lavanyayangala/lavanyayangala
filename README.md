@@ -4,7 +4,7 @@
 
 ### Hi there 👋, my name is Lavanya Yangala
 #### I am Tech Enthusiast looking for Tech Job   (https://github.com/lavanyayangala)
-
+<br><br>
 Working as Intern-Process Associate-->ExposysDataLabs-Bangalore.
 And actively looking for tech roles.
 #Open to work
