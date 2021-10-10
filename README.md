@@ -33,6 +33,7 @@ A small info regarding me
 Skills: HTML / CSS /JS (begineer) /salesforce classic version
 
 - 🔭 I’m currently working on my skills. 
+- 📫 Part of <a href="https://github.com/EddieHubCommunity">EddieHubcommunity 🙋</a>
 - 🌱 I’m currently learning ...#DSA with kunal
 - 👯 I’m looking to collaborate on ...GITHUB,LINKEDIN,YOUTUBE.
 - 🤔 I’m looking for help with ...LEARNING
