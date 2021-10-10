@@ -40,4 +40,4 @@ Lets catch up!!
 - Github:https://github.com/lavanyayangala 🙋
 - LinkedIn: https://www.linkedin.com/in/lavanya-yangala/ 👸
 - youtube: https://www.youtube.com/channel/UCq0XOjnIdC1cZyIaW7BZKeQ 💬
-- Twitter-https://twitter.com/Lavanya45752554 
+- Twitter-https://twitter.com/Lavanya45752554 💬
