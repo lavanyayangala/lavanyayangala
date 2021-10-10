@@ -3,10 +3,10 @@
 <!-- Here are some ideas to get you started: -->
 
 ### Hi there 👋, my name is Lavanya Yangala
-#### I am Tech Enthusiast looking for Tech Job   (https://github.com/lavanyayangala)
-<br>
+#### I am Tech Enthusiast looking for Tech Job  (https://github.com/lavanyayangala)
+
 Working as Intern-Process Associate-->ExposysDataLabs-Bangalore.<br>
-And actively looking for tech roles.
+<b>And actively looking for tech roles.<b><br>
 #Open to work
 
 <!-- [![Lavanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavanyayangala)](https://github.com/anuraghazra/github-readme-stats) -->
