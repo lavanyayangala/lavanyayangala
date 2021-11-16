@@ -23,10 +23,10 @@ Working as Intern-Process Associate-->ExposysDataLabs-Bangalore.<br>
 A small info regarding me 
 
 1. In the recent days we have created a web page along with my team as a part of innovation camp.
- ->  In order to have a look you can go to <a href="shorturl.at/jAL18">Rise Team Website</a>
+ ->  In order to have a look you can go to <a href="https://sriram5-coder.github.io/RISE_/index.html">Rise Team Website</a>
 
 2. And as a part of Internship at ExposysDataLabs done a project regarding Diabetes Prediction Using Machine Learning.
--> to check it you can go to <a href="shorturl.at/cmnE4">youtube</a> 
+-> to check it you can go to <a href="https://www.youtube.com/watch?v=9FZV0JCA0MA&ab_channel=lavanyayangala">youtube</a> 
 
 3.A few years ago in the time of 
 
