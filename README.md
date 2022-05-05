@@ -2,12 +2,17 @@
 
 <!-- Here are some ideas to get you started: -->
 
-### Hi there 👋, my name is Lavanya Yangala
-#### I am Tech Enthusiast looking for Tech Job  (https://github.com/lavanyayangala)
+### Hi there 👋, welcome to my profile (Lavanya Yangala)
+#### Present I am undergoing training at ccbp nxtwave related to full stack development and open to tech roles 
+#### If you are interested to check my coding related repository it can be accessed through this link 
+
+#### (https://github.com/lavanyayangala/ccbpcodeswebpartone)
 
 Working as Intern-Process Associate-->ExposysDataLabs-Bangalore.<br>
-<b>And actively looking for tech roles.<b><br>
-#Open to work
+
+#### <b>And actively looking for tech roles.<b><br>
+
+  #Open to work
 
 <!-- [![Lavanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavanyayangala)](https://github.com/anuraghazra/github-readme-stats) -->
 
@@ -22,19 +27,24 @@ Working as Intern-Process Associate-->ExposysDataLabs-Bangalore.<br>
 
 A small info regarding me 
 
-1. In the recent days we have created a web page along with my team as a part of innovation camp.
+1. In recent days as part of my learning journey i have done the static websites of different scenarios they can ba accessed through.
+  
+  #### (https://github.com/lavanyayangala/ccbpcodeswebpartone)
+  
+  
+ 2. In the recent days we have created a web page along with my team as a part of innovation camp.
  ->  In order to have a look you can go to <a href="https://sriram5-coder.github.io/RISE_/index.html">Rise Team Website</a>
 
 2. And as a part of Internship at ExposysDataLabs done a project regarding Diabetes Prediction Using Machine Learning.
 -> to check it you can go to <a href="https://www.youtube.com/watch?v=9FZV0JCA0MA&ab_channel=lavanyayangala">youtube</a> 
 
-3.A few years ago in the time of 
+3.As part of my learnings i am pretty comfortable with  
 
-Skills: HTML / CSS /JS (begineer) /salesforce classic version
+Skills: HTML5 , CSS 3 ,Bootstrap.
 
 - 🔭 I’m currently working on my skills. 
 - 📫 Part of <a href="https://github.com/EddieHubCommunity">EddieHubcommunity 🙋</a>
-- 🌱 I’m currently learning ...#DSA with kunal
+- 🌱 I’m currently learning ...Python
 - 👯 I’m looking to collaborate on ...GITHUB,LINKEDIN,YOUTUBE.
 - 🤔 I’m looking for help with ...LEARNING
 - 💬 Ask me about ...DATASCIENCE,WEB DEV RELATED QUERIES..
