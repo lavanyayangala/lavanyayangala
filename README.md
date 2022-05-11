@@ -50,7 +50,7 @@ Skills: HTML5 , CSS 3 ,Bootstrap.
 - 💬 Ask me about ...DATASCIENCE,WEB DEV RELATED QUERIES..
 - 📫 How to reach me: ...YOUTUBE,LINKEDIN,TWITTER
 - 😄 Pronouns: ...SHE,HER
-- ⚡ Fun fact: ...  EVERY DAY LEARNING NEW ITS EXCITING! YAYY!!
+- ⚡😊 Fun fact: ...  EVERY DAY LEARNING NEW ITS EXCITING! YAYY!!
 
 Lets catch up!!
 - Reach me out at below links:💥
