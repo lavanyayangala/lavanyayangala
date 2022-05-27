@@ -2,6 +2,16 @@
 
 <!-- Here are some ideas to get you started: -->
 
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+
+[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
+
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
+
+[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
+
 ### Hi there 👋, welcome to my profile (Lavanya Yangala)
 #### Present I am undergoing training at ccbp nxtwave related to full stack development and open to tech roles 
 #### If you are interested to check my coding related repository it can be accessed through this link 
@@ -13,6 +23,7 @@ Working as Intern-Process Associate-->ExposysDataLabs-Bangalore.<br>
 #### <b>And actively looking for tech roles.<b><br>
 
   #Open to work
+  
 
 <!-- [![Lavanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavanyayangala)](https://github.com/anuraghazra/github-readme-stats) -->
 
