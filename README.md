@@ -12,6 +12,8 @@
 
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
 ### Hi there 👋, welcome to my profile (Lavanya Yangala)
 #### Present I am undergoing training at ccbp nxtwave related to full stack development and open to tech roles 
 #### If you are interested to check my coding related repository it can be accessed through this link 
