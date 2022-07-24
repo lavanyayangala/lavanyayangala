@@ -72,3 +72,6 @@ Lets catch up!!
 - youtube: https://www.youtube.com/channel/UCq0XOjnIdC1cZyIaW7BZKeQ 💬
 - Twitter-https://twitter.com/Lavanya45752554 💬
 - Hashnode - https://lavanyayangala.hashnode.dev/ 💬
+
+Blog!
+1.https://lavanyayangala.hashnode.dev/introduction-to-programming-and-its-languages
