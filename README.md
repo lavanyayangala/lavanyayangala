@@ -15,17 +15,12 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 ### Hi there 👋, welcome to my profile (Lavanya Yangala)
+### Software Trainee at Astoria Technologies 😊
 #### Present I am undergoing training at ccbp nxtwave related to full stack development and open to tech roles 
 #### If you are interested to check my coding related repository it can be accessed through this link 
 
 #### (https://github.com/lavanyayangala/ccbpcodeswebpartone)
 
-Working as Intern-Process Associate-->ExposysDataLabs-Bangalore.<br>
-
-#### <b>And actively looking for tech roles.<b><br>
-
-  #Open to work
-  
 
 <!-- [![Lavanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavanyayangala)](https://github.com/anuraghazra/github-readme-stats) -->
 
@@ -53,7 +48,7 @@ A small info regarding me
 
 3.As part of my learnings i am pretty comfortable with  
 
-Skills: HTML5 , CSS 3 ,Bootstrap.
+Skills: HTML5 , CSS 3 ,Bootstrap ,C# ,.net.
 
 - 🔭 I’m currently working on my skills. 
 - 📫 Part of <a href="https://github.com/EddieHubCommunity">EddieHubcommunity 🙋</a>
@@ -63,7 +58,7 @@ Skills: HTML5 , CSS 3 ,Bootstrap.
 - 💬 Ask me about ...DATASCIENCE,WEB DEV RELATED QUERIES..
 - 📫 How to reach me: ...YOUTUBE,LINKEDIN,TWITTER
 - 😄 Pronouns: ...SHE,HER
-- ⚡😊 Fun fact: ...  EVERY DAY LEARNING NEW ITS EXCITING! YAYY!!
+
 
 Lets catch up!!
 - Reach me out at below links:💥
