@@ -16,7 +16,7 @@
 
 ### Hi there 👋, welcome to my profile (Lavanya Yangala)
 ### Software Trainee at Astoria Technologies 😊
-#### Present I am undergoing training at ccbp nxtwave related to full stack development and open to tech roles 
+#### Working on ASP .NET CORE AND ANGULAR. 😊
 #### If you are interested to check my coding related repository it can be accessed through this link 
 
 #### (https://github.com/lavanyayangala/ccbpcodeswebpartone)
@@ -52,7 +52,7 @@ Skills: HTML5 , CSS 3 ,Bootstrap ,C# ,.net.
 
 - 🔭 I’m currently working on my skills. 
 - 📫 Part of <a href="https://github.com/EddieHubCommunity">EddieHubcommunity 🙋</a>
-- 🌱 I’m currently learning ...Python
+- 🌱 I’m currently learning ... Angular, ASP .NET CORE 
 - 👯 I’m looking to collaborate on ...GITHUB,LINKEDIN,YOUTUBE.
 - 🤔 I’m looking for help with ...LEARNING
 - 💬 Ask me about ...DATASCIENCE,WEB DEV RELATED QUERIES..
@@ -70,3 +70,5 @@ Lets catch up!!
 
 Blog!
 1.https://lavanyayangala.hashnode.dev/introduction-to-programming-and-its-languages
+2.https://lavanyayangala.hashnode.dev/flowchart
+3.https://lavanyayangala.hashnode.dev/introduction-to-java-architecture-of-java
