@@ -10,7 +10,7 @@
 
 ### Hi there 👋, Welcome to my profile (Lavanya Yangala)
 ### Software Trainee at Astoria Technologies 😊
-### Open to Work - Remote and Community based - Web and Software Development Jobs
+### Open to Work - Remote and Community based - Web and Software Development Jobs.
 #### If you are interested to check my coding related repository it can be accessed through this link.
 
 #### (https://github.com/lavanyayangala/ccbpcodeswebpartone)
@@ -37,11 +37,11 @@ A small info regarding me
  ->  In order to have a look you can go to <a href="https://sriram5-coder.github.io/RISE_/index.html">Rise Team Website</a>
 
 3. And as a part of Internship at ExposysDataLabs done a project regarding Diabetes Prediction Using Machine Learning.
--> to check it you can go to <a href="https://www.youtube.com/watch?v=9FZV0JCA0MA&ab_channel=lavanyayangala">youtube</a> 
+-> to check it you can go to <a href="https://www.youtube.com/watch?v=9FZV0JCA0MA&ab_channel=lavanyayangala">Youtube</a> 
 
 4.As part of my learnings i am pretty comfortable with  
 
-Skills: HTML5 , CSS 3 ,Bootstrap ,C# ,.NET,Javascript,Angular,Xamarin,(learning according to requirements).
+Skills: HTML5 , CSS 3 ,Bootstrap ,C# ,.NET,Javascript,Angular,Xamarin,Python.(Learning According to requirements).
 
 - 🔭 I’m currently working on my skills. 
 - 📫 Part of <a href="https://github.com/EddieHubCommunity">EddieHubcommunity 🙋</a>
@@ -49,8 +49,8 @@ Skills: HTML5 , CSS 3 ,Bootstrap ,C# ,.NET,Javascript,Angular,Xamarin,(learning 
 - 👯 I’m looking to collaborate on ...GITHUB,LINKEDIN,YOUTUBE.
 - 🤔 I’m looking for help with ...LEARNING
 - 💬 Ask me about ...DATASCIENCE,WEB DEV RELATED QUERIES..
-- 📫 How to reach me: ...YOUTUBE,LINKEDIN,TWITTER
-- 😄 Pronouns: ...SHE,HER
+- 📫 How to reach me: ...YOUTUBE,LINKEDIN,TWITTER.
+- 😄 Pronouns: ...SHE,HER.
 
 
 Lets catch up!!
@@ -63,9 +63,11 @@ Lets catch up!!
 - Linkfree(by <a href="https://linkfree.eddiehub.io/"> Eddiehub Community </a>) - https://linkfree.eddiehub.io/lavanyayangala 😊 
 - Showwcase - https://www.showwcase.com/lavanyayangala516 👩‍💻
 
-Blog!
-1.https://lavanyayangala.hashnode.dev/introduction-to-programming-and-its-languages
+Blogs!
+1. <a href="https://lavanyayangala.hashnode.dev/introduction-to-programming-and-its-languages">Introduction to Programming.</a>
 
-2.https://lavanyayangala.hashnode.dev/flowchart
+2. <a href="https://lavanyayangala.hashnode.dev/flowchart">Introduction to Flowchart.</a>
 
-3.https://lavanyayangala.hashnode.dev/introduction-to-java-architecture-of-java
+3. <a href="https://lavanyayangala.hashnode.dev/introduction-to-java-architecture-of-java">Introduction to Java and its Architecture.</a>
+
+4. <a href="https://lavanyayangala.hashnode.dev/my-sql">Introduction to My SQL.</a>
