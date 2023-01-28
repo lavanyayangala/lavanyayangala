@@ -9,7 +9,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 ### Hi there 👋, Welcome to my profile (Lavanya Yangala)
-### Software Trainee at Astoria Technologies 😊
+### Software Trainee at <a href = "https://www.astoriasolutions.com/">Astoria Solutions - Hyderabad.</a> 😊
 ### Open to Work - Remote and Community based - Web and Software Development Jobs.
 #### If you are interested to check my coding related repository it can be accessed through this link.
 
@@ -29,7 +29,11 @@
 
 A small info regarding me 
 
-1. In recent days as part of my learning journey i have done the static websites of different scenarios they can ba accessed through.
+Working on projects in the company internal.
+
+Before Joining company below are the projects worked on... 
+
+1. In recent days as part of my learning journey i have done the static websites of different scenarios they can be accessed through.
   
   #### (https://github.com/lavanyayangala/ccbpcodeswebpartone)
   
@@ -39,9 +43,17 @@ A small info regarding me
 3. And as a part of Internship at ExposysDataLabs done a project regarding Diabetes Prediction Using Machine Learning.
 -> to check it you can go to <a href="https://www.youtube.com/watch?v=9FZV0JCA0MA&ab_channel=lavanyayangala">Youtube</a> 
 
-4.As part of my learnings i am pretty comfortable with  
+4.As part of my learnings I am pretty comfortable with  
 
-Skills: HTML5 , CSS 3 ,Bootstrap ,C# ,.NET,Javascript,Angular,Xamarin,Python.(Learning According to requirements).
+Skills: (Learning According to requirements in the present working company).
+ 1. Web Development: HTML5, CSS3 ,Bootstrap,Javascript.
+ 2. Framework: .NET ,Angular(Javascript Framework)
+ 3. Programming : C# , Python , Typescript
+ 4. Mobile App Development: Xamarin Forms.
+ 5. Cloud Platforms: Microsoft Azure.
+ 6. Databases: Microsoft SQL Server , My SQL, MongoDB.
+ 7. Unit Testing: Angular Unit Testing(Jasmine Framework),.NET Unit Testing (NUnit Testing).
+
 
 - 🔭 I’m currently working on my skills. 
 - 📫 Part of <a href="https://github.com/EddieHubCommunity">EddieHubcommunity 🙋</a>
@@ -60,7 +72,7 @@ Lets catch up!!
 - Youtube: https://www.youtube.com/channel/UCq0XOjnIdC1cZyIaW7BZKeQ 💬
 - Twitter-https://twitter.com/Lavanya45752554 💬
 - Hashnode - https://lavanyayangala.hashnode.dev/ 💬
-- Linkfree(by <a href="https://linkfree.eddiehub.io/"> Eddiehub Community </a>) - https://linkfree.eddiehub.io/lavanyayangala 😊 
+- LinkFree(by <a href="https://linkfree.eddiehub.io/"> Eddiehub Community </a>) - https://linkfree.eddiehub.io/lavanyayangala 😊 
 - Showwcase - https://www.showwcase.com/lavanyayangala516 👩‍💻
 
 Blogs!
