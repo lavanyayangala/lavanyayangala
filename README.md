@@ -2,22 +2,16 @@
 
 <!-- Here are some ideas to get you started: -->
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
-
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
-
 [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
 
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 
-[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
-
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-### Hi there 👋, welcome to my profile (Lavanya Yangala)
+### Hi there 👋, Welcome to my profile (Lavanya Yangala)
 ### Software Trainee at Astoria Technologies 😊
-#### Working on ASP .NET CORE AND ANGULAR. 😊
-#### If you are interested to check my coding related repository it can be accessed through this link 
+### Open to Work - Remote and Community based - Web and Software Development Jobs
+#### If you are interested to check my coding related repository it can be accessed through this link.
 
 #### (https://github.com/lavanyayangala/ccbpcodeswebpartone)
 
@@ -39,20 +33,19 @@ A small info regarding me
   
   #### (https://github.com/lavanyayangala/ccbpcodeswebpartone)
   
-  
- 2. In the recent days we have created a web page along with my team as a part of innovation camp.
+2. In the recent days we have created a web page along with my team as a part of innovation camp.
  ->  In order to have a look you can go to <a href="https://sriram5-coder.github.io/RISE_/index.html">Rise Team Website</a>
 
-2. And as a part of Internship at ExposysDataLabs done a project regarding Diabetes Prediction Using Machine Learning.
+3. And as a part of Internship at ExposysDataLabs done a project regarding Diabetes Prediction Using Machine Learning.
 -> to check it you can go to <a href="https://www.youtube.com/watch?v=9FZV0JCA0MA&ab_channel=lavanyayangala">youtube</a> 
 
-3.As part of my learnings i am pretty comfortable with  
+4.As part of my learnings i am pretty comfortable with  
 
-Skills: HTML5 , CSS 3 ,Bootstrap ,C# ,.net.
+Skills: HTML5 , CSS 3 ,Bootstrap ,C# ,.NET,Javascript,Angular,Xamarin,(learning according to requirements).
 
 - 🔭 I’m currently working on my skills. 
 - 📫 Part of <a href="https://github.com/EddieHubCommunity">EddieHubcommunity 🙋</a>
-- 🌱 I’m currently learning ... Angular, ASP .NET CORE 
+- 🌱 I’m currently learning ... Python.
 - 👯 I’m looking to collaborate on ...GITHUB,LINKEDIN,YOUTUBE.
 - 🤔 I’m looking for help with ...LEARNING
 - 💬 Ask me about ...DATASCIENCE,WEB DEV RELATED QUERIES..
@@ -64,9 +57,11 @@ Lets catch up!!
 - Reach me out at below links:💥
 - Github:https://github.com/lavanyayangala 🙋
 - LinkedIn: https://www.linkedin.com/in/lavanya-yangala/ 👸
-- youtube: https://www.youtube.com/channel/UCq0XOjnIdC1cZyIaW7BZKeQ 💬
+- Youtube: https://www.youtube.com/channel/UCq0XOjnIdC1cZyIaW7BZKeQ 💬
 - Twitter-https://twitter.com/Lavanya45752554 💬
 - Hashnode - https://lavanyayangala.hashnode.dev/ 💬
+- Linkfree(by <a href="https://linkfree.eddiehub.io/"> Eddiehub Community </a>) - https://linkfree.eddiehub.io/lavanyayangala 😊 
+- Showwcase - https://www.showwcase.com/lavanyayangala516 👩‍💻
 
 Blog!
 1.https://lavanyayangala.hashnode.dev/introduction-to-programming-and-its-languages
