@@ -9,7 +9,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 ### Hi there 👋, Welcome to my profile (Lavanya Yangala)
-### Software Trainee at <a href = "https://www.astoriasolutions.com/">Astoria Solutions - Hyderabad.</a> 😊
+### Associate Software Engineer at <a href = "https://www.astoriasolutions.com/">Astoria Solutions - Hyderabad.</a> 😊
 ### Open to Work - Remote and Community based - Web and Software Development Jobs.
 #### If you are interested to check my coding related repository it can be accessed through this link.
 
