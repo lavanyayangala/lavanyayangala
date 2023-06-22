@@ -83,3 +83,5 @@ Blogs!
 3. <a href="https://lavanyayangala.hashnode.dev/introduction-to-java-architecture-of-java">Introduction to Java and its Architecture.</a>
 
 4. <a href="https://lavanyayangala.hashnode.dev/my-sql">Introduction to My SQL.</a>
+
+5. <a href="https://lavanyayangala.hashnode.dev/learn-the-fundamentals-of-python-programming-an-introduction-to-python-for-beginners">Introduction to Python Programming.</a>
