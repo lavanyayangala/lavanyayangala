@@ -1,73 +1,40 @@
-<!-- **lavanyayangala/lavanyayangala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lavanya Yangala
+=======================================================================================================================================
 
-<!-- Here are some ideas to get you started: -->
+Software Engineer
+-----------------
 
-[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
+Hey I'm an Software Developer working on .NET and Angular ecosystem at Astoria Technologies (I) Private Limited.
 
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/lavanya-yangala/)
+* ✉️  You can contact me at [lavanyayjobpurp@gmail.com](mailto:lavanyayjobpurp@gmail.com)
+* 🧠  I'm learning Angular,Python,.NET
+* 🤝  I'm open to collaborating on Freelance, Job Opportunities
+* ⚡  Cheers! You got it....:)
 
-### Hi there 👋, Welcome to my profile (Lavanya Yangala)
-### Associate Software Engineer at <a href = "https://www.astoriasolutions.com/">Astoria Solutions - Hyderabad.</a> 😊
-### Open to Work - Remote and Community based - Web and Software Development Jobs.
-#### If you are interested to check my coding related repository it can be accessed through this link.
+<a href="https://www.x.com/Lavanya45752554" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/Lavanya45752554?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
 
-#### (https://github.com/lavanyayangala/ccbpcodeswebpartone)
-
-A small info regarding me 
-
-Working on projects in the company internal.
-
-Before Joining company below are the projects worked on... 
-
-1. In recent days as part of my learning journey i have done the static websites of different scenarios they can be accessed through.
-  
-  #### (https://github.com/lavanyayangala/ccbpcodeswebpartone)
-  
-2. In the recent days we have created a web page along with my team as a part of innovation camp.
- ->  In order to have a look you can go to <a href="https://sriram5-coder.github.io/RISE_/index.html">Rise Team Website</a>
-
-3. And as a part of Internship at ExposysDataLabs done a project regarding Diabetes Prediction Using Machine Learning.
--> to check it you can go to <a href="https://www.youtube.com/watch?v=9FZV0JCA0MA&ab_channel=lavanyayangala">Youtube</a> 
-
-4.As part of my learnings I am pretty comfortable with  
-
-Skills: (Learning According to requirements in the present working company).
-1. Languages : Python,Angular,HTML5,CSS3,Bootstrap.
-2. Data Management : MSSQL, MongoDB,MySQL.
-3. Frameworks and Methodologies : ASP.NET Web API , Agile and Scrum.
-4. Devops : Azure Devops,Github,Git.
-5. Data Analytics: PowerBI.
-6. Architectural Pattern: MVVM, 3-Tier.
-7. Tools : Visual Studio 2019 ,Visual Studio Code, Postman.
-
-Blogs!
-1. <a href="https://lavanyayangala.hashnode.dev/introduction-to-programming-and-its-languages">Introduction to Programming.</a>
-
-2. <a href="https://lavanyayangala.hashnode.dev/flowchart">Introduction to Flowchart.</a>
-
-3. <a href="https://lavanyayangala.hashnode.dev/introduction-to-java-architecture-of-java">Introduction to Java and its Architecture.</a>
-
-4. <a href="https://lavanyayangala.hashnode.dev/my-sql">Introduction to My SQL.</a>
-
-5. <a href="https://lavanyayangala.hashnode.dev/learn-the-fundamentals-of-python-programming-an-introduction-to-python-for-beginners">Introduction to Python Programming.</a>
-   
-- 🔭 I’m currently working on my skills. 
-- 📫 Part of <a href="https://github.com/EddieHubCommunity">EddieHubcommunity 🙋</a>
-- 🌱 I’m currently learning ... Python.
-- 👯 I’m looking to collaborate on ...GITHUB,LINKEDIN,YOUTUBE.
-- 🤔 I’m looking for help with ...LEARNING
-- 💬 Ask me about ...DATASCIENCE,WEB DEV RELATED QUERIES..
-- 📫 How to reach me: ...YOUTUBE,LINKEDIN,TWITTER.
-- 😄 Pronouns: ...SHE,HER.
+### Skills
 
 
-Lets catch up!!
-- Reach me out at below links:💥
-- Github:https://github.com/lavanyayangala 🙋
-- LinkedIn: https://www.linkedin.com/in/lavanya-yangala/ 👸
-- Youtube: https://www.youtube.com/channel/UCq0XOjnIdC1cZyIaW7BZKeQ 💬
-- Twitter-https://twitter.com/Lavanya45752554 💬
-- Hashnode - https://lavanyayangala.hashnode.dev/ 💬
-- LinkFree(by <a href="https://linkfree.eddiehub.io/"> Eddiehub Community </a>) - https://linkfree.eddiehub.io/lavanyayangala 😊 
-- Showwcase - https://www.showwcase.com/lavanyayangala516 👩‍💻
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
+</p>
 
 
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/lavanyayangala" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/lavanyayangala" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://lavanyayangala.hashnode.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/lavanya_yangala_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/lavanya-yangala/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/Lavanya45752554" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@lavanyayangala" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@lavanya_yangala_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/lavanyayangala"><img src="https://github-readme-stats.vercel.app/api?username=lavanyayangala&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="lavanyayangala's GitHub stats" /></a>
+
+<a href="http://www.github.com/lavanyayangala"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lavanyayangala&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/lavanyayangala" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyayangala&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
