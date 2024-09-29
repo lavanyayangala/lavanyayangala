@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Angular,.NET<br>👯 I’m looking to collaborate on Freelance and Job Opportunities<br>🤝 I’m looking for help with Code<br>🌱 I’m currently learning Python<br>💬 Ask me about Angular,.NET<br>⚡ Fun fact Go with the will resolutions may not work :)
+🔭 I’m currently working on .NET<br>👯 I’m looking to collaborate on Freelance and Job Opportunities<br>🤝 I’m looking for help with Code<br>🌱 I’m currently learning Python<br>💬 Ask me about Angular,.NET<br>⚡ Fun fact Go with the will resolutions may not work :)
 
 
 ## 🌐 Socials:
@@ -11,12 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=lavanyayangala&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lavanyayangala&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyayangala&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=lavanyayangala&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=lavanyayangala&limit=5&theme=dark&combine_all_yearly_contributions=true)
