@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on .NET<br>👯 I’m looking to collaborate on Freelance and Job Opportunities<br>🤝 I’m looking for help with Code<br>🌱 I’m currently learning Python<br>💬 Ask me about Angular,.NET<br>⚡ Fun fact Go with the will resolutions may not work :)
+🔭 I’m currently working on ASP.NET Core API's <br>👯 I’m looking to collaborate on Freelance and Job Opportunities<br>🤝 I’m looking for help with Code<br>🌱 I’m currently learning Python<br>💬 Ask me about Angular,.NET<br>⚡ Fun fact Go with the will resolutions may not work :)
 
 
 ## 🌐 Socials:
