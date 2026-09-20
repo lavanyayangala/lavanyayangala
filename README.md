@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on ASP.NET Core API's, AI 900 certified. <br>👯 I’m looking to collaborate on Freelance and Job Opportunities<br>🤝 I’m looking for help with Code and build reliable solutions.<br>💬 Ask me about Tech.<br>⚡ Fun fact Go with the will resolutions may not work :)
 
+## 💫  Certifications.
+![Microsoft Azure AI Fundamentals AI-900](images/AI%20900%20badge.png)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lavanya_yangala_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lavanya-yangala) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Lavanya45752554) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCq0XOjnIdC1cZyIaW7BZKeQ) 
